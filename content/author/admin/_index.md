@@ -88,6 +88,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-My name is Artur Lozovoi, I am a postdoctoral researcher in the group of Professor Carlos Meriles at the City College of New York. My current research interest lies in the field quantum physics of defects in diamonds. In particular, I explore the possibilities of using nitrogen vacancies and substitutonal nitrogen in diamond lattice as qubits for quantum communication and computing. 
+My name is Artur Lozovoi, I am a postdoctoral researcher in the group of [Professor Carlos Meriles](https://cmeriles.ccny.cuny.edu/) at the City College of New York. My current research interest lies in the field quantum physics of defects in diamonds. In particular, I explore the possibilities of using nitrogen vacancies and substitutonal nitrogen in diamond lattice as qubits for quantum communication and computing. 
 
 
