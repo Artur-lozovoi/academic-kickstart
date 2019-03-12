@@ -24,8 +24,9 @@ email = ""
 # List (academic) interests or hobbies
 interests = [
   "Quantum sensing",
-  "Nitrogen vacancy center",
-  "Magnetic resonance"
+  "Nitrogen vacancy center in diamond",
+  "Magnetic resonance",
+  "Quantum computing"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -82,6 +83,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Artur Lozovoi, I am a postdoctoral researcher in the group of Professor Carlos Meriles at the City College of New York. My current research interest lies in the field quantum physics of defects in diamonds. In particular, I am working on exploring the possibilities of using nitrogen vacancies and substitutonal nitrogen in diamond lattice as qubits for qunatum communication and computing. 
 
 
