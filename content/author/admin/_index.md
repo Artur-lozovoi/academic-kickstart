@@ -25,7 +25,7 @@ email = ""
 interests = [
   "Quantum sensing",
   "Nitrogen vacancy center in diamond",
-  "Magnetic resonance",
+  "Spin dynamics and magnetic resonance",
   "Quantum computing"
 ]
 
